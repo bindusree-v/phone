@@ -6,7 +6,7 @@ jfjfjfjjff
 # @test ="hello"
 # print(@test)
 hh
-_xyz2 = 3.14
+_xyz2 = 3.14j
 print(_xyz)
 
    # iv){{{ = [1, 2, 3] 
